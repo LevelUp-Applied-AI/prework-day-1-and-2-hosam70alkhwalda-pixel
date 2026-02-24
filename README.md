@@ -28,3 +28,11 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+[I configured Git, GitHub, and my local development environment to prepare for the LevelUp Applied AI prework. I set up SSH authentication, cloned the repository, and verified that everything runs correctly on my machine.]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-hosam70alkhwalda-pixel.git
